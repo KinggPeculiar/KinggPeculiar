@@ -1,35 +1,58 @@
-# 👋 Hi, I'm KinggPeculiar!
+<!-- GitHub Profile README Template -->
 
-🌱 **Junior Front End Web Developer**  
-Learning and building with [ALX Institute](https://www.alxafrica.com/).  
-I’m passionate about turning ideas into interactive, living web experiences!
+<h1 align="center">👋 Hi, I'm Priest</h1>
 
----
-
-## 🚀 What I'm Learning
-
-- **JavaScript**
-- **HTML5**
-- **CSS3**
-
-I’m on an exciting journey to master the foundations of web development. Every day is a new opportunity to learn, create, and grow!
+<p align="center">
+  🌱 Front-End Web Developer in training | Passionate about solving real-world problems with responsive, user-friendly solutions
+</p>
 
 ---
 
-## ✨ Why I Code
+## 🚀 About Me
 
-> “I see coding as a way to create something and make things come alive.”
+```html
+<!-- About Me Section -->
+I'm currently a learner in the ALX Front-End Software Engineering Program, where I'm building a solid foundation in HTML, CSS, Git, and JavaScript.
 
-I believe every line of code is a step toward building something meaningful and impactful.
+💡 I’m driven by a passion for building digital solutions that are:
+
+    ✨ Responsive – adaptable across devices
+
+    👥 User-Centered – intuitive and accessible
+
+    🌍 Impact-Oriented – solving real-world challenges
+
+🎯 My goal is to become proficient in front-end development, with a long-term vision of contributing to tech for governance—particularly a blockchain-based portal for transparent public expenditure tracking.
+
+<!-- Skills & Tools Section -->
+
+<div align="center"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> </div>
+
+<!-- Highlight Projects Section -->
+
+🔐 Blockchain Governance Portal (In Progress)
+
+A web-based portal that securely stores and tracks public expenditures using blockchain for transparency and accountability.
+
+    ✅ Role: Front-End Developer
+
+    📌 Stack: HTML, CSS, JavaScript (and later: Web3 tools)
+
+    🌍 Goal: Empower citizen oversight through real-time, tamper-proof data access
+
+    More projects coming soon — follow my journey as I build real-world solutions, one commit at a time.
+
+## 🛡️ GitHub Stats & Badges
+
+<!-- GITHUB BADGES EXAMPLES: update with your own when ready! -->
+
+![KinggPeculiar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KinggPeculiar&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KinggPeculiar&layout=compact&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KinggPeculiar&theme=tokyonight)
 
 ---
 
-## 🏆 Projects
-
-I’m actively learning and experimenting.  
-**Stay tuned!**—I’ll be adding my flagship projects here soon.
-
----
+<!-- Contact Section -->
 
 ## 📫 Connect with Me
 
@@ -40,13 +63,5 @@ I’m actively learning and experimenting.
 
 ---
 
-## 🛡️ GitHub Stats & Badges
-
-<!-- GITHUB BADGES EXAMPLES: update with your own when ready! -->
-
-![KinggPeculiar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KinggPeculiar&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KinggPeculiar&layout=compact&theme=tokyonight)
-
----
-
-> _“The journey is just beginning. Let’s build something amazing together!”_
+⭐️ “Building for impact means building for people.”
+🎯 > _“The journey is just beginning. Let’s build something meaningful together!"_
