@@ -1,6 +1,6 @@
 <!-- GitHub Profile README Template -->
 
-<h1 align="center">👋 Hi, I'm Priest</h1>
+<h1 align="center">👋 Hi, I'm Peculiar</h1>
 
 <p align="center">
   🌱 Front-End Web Developer in training | Passionate about solving real-world problems with responsive, user-friendly solutions
