@@ -3,7 +3,7 @@
 <h1 align="center">👋 Hi, I'm Peculiar</h1>
 
 <p align="center">
-  🌱 Front-End Web Developer in training | Passionate about solving real-world problems with responsive, user-friendly solutions
+  🌱 Junior Front-End Web Developer | Passionate about solving real-world problems with responsive, user-friendly solutions
 </p>
 
 ---
