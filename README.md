@@ -12,7 +12,7 @@
 
 ```html
 <!-- About Me Section -->
-I'm currently a learner in the ALX Front-End Software Engineering Program, where I'm building a solid foundation in HTML, CSS, Git, and JavaScript.
+I'm currently an instructor at The Code Garden Tech Institute, where I'm teaching and mentoring bright young minds on the foundations of HTML, CSS, Git, and JavaScript.
 
 💡 I’m driven by a passion for building digital solutions that are:
 
