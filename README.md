@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-```html
+
 <!-- About Me Section -->
 - ✝️ I am a child of God
 - 🔭 Currently an instructor at The Code Garden Tech Institute, teaching and mentoring bright young minds on the foundations of web development
