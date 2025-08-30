@@ -2,8 +2,10 @@
 
 <h1 align="center">👋 Hi, I'm Peculiar</h1>
 
+![Banner Image](https://github.com/KinggPeculiar/KinggPeculiar/blob/main/Frame.png)
+
 <p align="center">
-  🌱 Junior Front-End Web Developer | Passionate about solving real-world problems with responsive, user-friendly solutions
+  🌱 Passionate about solving real-world problems with responsive, user-friendly solutions
 </p>
 
 ---
@@ -12,7 +14,11 @@
 
 ```html
 <!-- About Me Section -->
-I'm currently an instructor at The Code Garden Tech Institute, where I'm teaching and mentoring bright young minds on the foundations of HTML, CSS, Git, and JavaScript.
+- ✝️ I am a child of God
+- 🔭 Currently an instructor at The Code Garden Tech Institute, teaching and mentoring bright young minds on the foundations of web development
+- 🌍 Languages: **[HTML, CSS, JavaScript, React]**
+- 📫 How to reach me: **[Kingsleypeculiar04@gmail.com]**
+- ⚡ Fun Fact: **[I Love good christian music, I Love my family and I Love my job]**
 
 💡 I’m driven by a passion for building digital solutions that are:
 
@@ -27,11 +33,16 @@ I'm currently an instructor at The Code Garden Tech Institute, where I'm teachin
 <!-- Skills & Tools Section -->
 
 <p align="center">
-  ![HTML5](...) ![CSS3](...)  
-  ![Git](...) ![GitHub](...)  
+  ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 </p>
 
 <!-- Highlight Projects Section -->
+
+## Featured Projects 💻
 
 🔐 Blockchain Governance Portal (In Progress)
 
@@ -59,10 +70,10 @@ A web-based portal that securely stores and tracks public expenditures using blo
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-peculiar--kingsley-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/peculiar-kingsley)
-[![Twitter](https://img.shields.io/badge/Twitter-King_Peculiar-1da1f2?style=for-the-badge&logo=twitter)](https://twitter.com/King_Peculiar)
-[![Instagram](https://img.shields.io/badge/Instagram-kinggpeculiar-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/kinggpeculiar)
-[![Gmail](https://img.shields.io/badge/Email-kinglseypeculiar04@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:kinglseypeculiar04@gmail.com)
+- **[LinkedIn]**(https://www.linkedin.com/in/peculiar-kingsley)
+- **[Twitter]**(https://twitter.com/King_Peculiar)
+- **[Instagram]**(https://instagram.com/kinggpeculiar)
+- **[Gmail]**(mailto:kinglseypeculiar04@gmail.com)
 
 ---
 
