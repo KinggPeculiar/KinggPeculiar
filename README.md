@@ -14,7 +14,7 @@
 
 
 <!-- About Me Section -->
-<h2> - ✝️ I am a child of God</h2>
+<h2> ✝️ I am a child of God</h2>
 - 🔭 Currently an instructor at The Code Garden Tech Institute, teaching and mentoring bright young minds on the foundations of web development
 - 🌍 Languages: **[HTML, CSS, JavaScript, React]**
 - 📫 How to reach me: **[Kingsleypeculiar04@gmail.com]**
